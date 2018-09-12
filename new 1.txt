@@ -1,0 +1,27 @@
+create code with below tasks 
+1. print odd numbers from interval 60 - 95
+2. print odd numbers from interval 60 - 95 where rest after the division by 13 is 0
+3. plot a quadratic function passing point [0,-10]
+
+Give me your code with comments on each line
+
+sample output
+61
+63
+65
+65  is divided by 13
+67
+69
+71
+73
+75
+77
+79
+81
+83
+85
+87
+89
+91
+91  is divided by 13
+93
